@@ -9,7 +9,8 @@
 }
 
 * {
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 
 html, body {
@@ -19,3 +20,4 @@ html, body {
   background-color: var(--background-color);
   font-family: 'Segoe UI', sans-serif;
 }
+/*# sourceMappingURL=styles.css.map */
